@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "855219415462",
+    "firebase_url": "https://flashchat-ce316.firebaseio.com",
+    "project_id": "flashchat-ce316",
+    "storage_bucket": "flashchat-ce316.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855219415462:android:cd80ba57a06eabe24c8767",
+        "android_client_info": {
+          "package_name": "co.PranavG.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855219415462-0pm8immaupsslc7qje9ouerl6mg5da5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqL9Z7SzymFItQQyMdBMzs4lW3PX2iLms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855219415462-0pm8immaupsslc7qje9ouerl6mg5da5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
